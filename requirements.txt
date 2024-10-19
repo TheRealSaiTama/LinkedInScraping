@@ -1,0 +1,17 @@
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# HTTP/Network
+urllib3>=2.0.0
+chardet>=5.0.0
+certifi>=2023.7.22
+
+# Parsing
+soupsieve>=2.4.0
+
+# Time handling
+python-dateutil>=2.8.2
+
+# Logging (part of Python standard library, listed for documentation)
+logging>=0.5.1.2
